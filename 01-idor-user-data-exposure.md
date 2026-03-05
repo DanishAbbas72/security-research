@@ -47,8 +47,8 @@ The server responds with your profile data:
 ```json
 {
   "user_id": 1042,
-  "name": "Test User",
-  "email": "testuser@email.com",
+  "name": "Danish",
+  "email": "danish@email.com",
   "phone": "+92-300-1234567",
   "address": "Islamabad, Pakistan"
 }
@@ -71,8 +71,8 @@ The server returns the private profile data of user `1001` without any authoriza
 ```json
 {
   "user_id": 1001,
-  "name": "Jane Doe",
-  "email": "janedoe@email.com",
+  "name": "Abbas",
+  "email": "abbas@email.com",
   "phone": "+1-555-987-6543",
   "address": "New York, USA"
 }
