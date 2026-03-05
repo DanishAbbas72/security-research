@@ -1,10 +1,10 @@
-# Broken Authentication — JWT Algorithm Confusion (None Algorithm Accepted)
+# Broken Authentication (JWT Algorithm Confusion (None Algorithm Accepted))
 
-**Vulnerability Type:** Broken Authentication — JWT Validation Bypass
-**Severity:** Critical (CVSS 3.1 Score: 9.1)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** Broken Authentication — JWT Validation Bypass <br>
+**Severity:** Critical (CVSS 3.1 Score: 9.1) <br>
+**Platform:** Bug Bounty (Redacted) <br>
+**Status:** Resolved / Disclosed <br>
+**Date:** 2025 <br>
 
 ---
 
