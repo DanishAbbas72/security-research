@@ -77,7 +77,8 @@ To demonstrate the issue without harvesting data, I used a benign alert payload:
 The alert fired immediately on page load for any visitor.
 
 **Screenshot of PoC:**
-> `[alert box displaying: XSS-PoC-DanishAbbas]`
+<img width="567" height="177" alt="image" src="https://github.com/user-attachments/assets/58d2e071-a034-43fb-adbb-bd3d4d08dfce" />
+
 
 ---
 
