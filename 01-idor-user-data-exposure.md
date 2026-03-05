@@ -1,9 +1,9 @@
 # IDOR (Unauthorized Access to User Profile Data)
 
-**Vulnerability Type:** Insecure Direct Object Reference (IDOR)
-**Severity:** High (CVSS 3.1 Score: 7.5)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
+**Vulnerability Type:** Insecure Direct Object Reference (IDOR)<br>
+**Severity:** High (CVSS 3.1 Score: 7.5)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
 **Date:** 2024
 
 ---
