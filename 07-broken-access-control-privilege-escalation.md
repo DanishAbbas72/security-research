@@ -4,7 +4,7 @@
 **Severity:** Critical (CVSS 3.1 Score: 9.1)<br>
 **Platform:** Bug Bounty (Redacted)<br>
 **Status:** Resolved / Disclosed<br>
-**Date:** 2026<br>
+**Date:** 2026<br> 
 
 ---
 
