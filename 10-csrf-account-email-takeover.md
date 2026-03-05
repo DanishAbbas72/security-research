@@ -1,10 +1,10 @@
-# Cross-Site Request Forgery (CSRF) — Account Email Change Without User Consent
+# Cross-Site Request Forgery (CSRF) (Account Email Change Without User Consent)
 
-**Vulnerability Type:** Cross-Site Request Forgery (CSRF)
-**Severity:** High (CVSS 3.1 Score: 7.1)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** Cross-Site Request Forgery (CSRF)<br>
+**Severity:** High (CVSS 3.1 Score: 7.1)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
+**Date:** 2026<br>
 
 ---
 
