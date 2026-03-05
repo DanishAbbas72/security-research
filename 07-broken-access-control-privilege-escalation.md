@@ -1,10 +1,10 @@
 # Broken Access Control — Horizontal Privilege Escalation via Role Parameter Manipulation
 
 **Vulnerability Type:** Broken Access Control — Privilege Escalation
-**Severity:** Critical (CVSS 3.1 Score: 9.1)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Severity:** Critical (CVSS 3.1 Score: 9.1)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
+**Date:** 2026<br>
 
 ---
 
