@@ -1,11 +1,12 @@
-# Danish Abbas
-### Cybersecurity Researcher | Bug Bounty Hunter | Web Application Penetration Tester
+# Security Research & Vulnerability Writeups
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&speed=50&color=2ecc71&width=900&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter+%7C+Web+Application+Penetration+Tester;OWASP+Top+10+Specialist+%7C+Vulnerability+Researcher+%7C+Security+Labs+Enthusiast" alt="Typing SVG" />
-</div>
-
-<br>
+**Author:** Danish Abbas
+**Focus:** Web Application Security | Bug Bounty | Penetration Testing
+**Profiles:** [YesWeHack](https://yeswehack.com) | [Bugcrowd](https://bugcrowd.com)
+**LinkedIn:** [linkedin.com/in/danish-abbas-132411216](https://linkedin.com/in/danish-abbas-132411216)
+**GitHub:** [github.com/DanishAbbas72](https://github.com/DanishAbbas72)
+**Email:** danish.abbas.infosec@gmail.com
+**Location:** Islamabad, Pakistan
 
 ---
 
