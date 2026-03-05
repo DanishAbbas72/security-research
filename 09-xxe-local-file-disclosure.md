@@ -1,10 +1,10 @@
 # XML External Entity (XXE) Injection — Local File Disclosure via File Upload
 
-**Vulnerability Type:** XML External Entity (XXE) Injection
-**Severity:** High (CVSS 3.1 Score: 7.5)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** XML External Entity (XXE) Injection<br>
+**Severity:** High (CVSS 3.1 Score: 7.5)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
+**Date:** 2025<br>
 
 ---
 
