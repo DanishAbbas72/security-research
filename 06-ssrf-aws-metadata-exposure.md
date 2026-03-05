@@ -1,10 +1,10 @@
-# Server-Side Request Forgery (SSRF) — Internal Metadata Service Access via URL Parameter
+# Server-Side Request Forgery (SSRF) (Internal Metadata Service Access via URL Parameter)
 
-**Vulnerability Type:** Server-Side Request Forgery (SSRF)
-**Severity:** High (CVSS 3.1 Score: 8.6)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** Server-Side Request Forgery (SSRF) <br>
+**Severity:** High (CVSS 3.1 Score: 8.6)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
+**Date:** 2025<br>
 
 ---
 
