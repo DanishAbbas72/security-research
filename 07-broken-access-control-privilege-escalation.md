@@ -1,4 +1,4 @@
-# Broken Access Control — Horizontal Privilege Escalation via Role Parameter Manipulation
+# Broken Access Control (Horizontal Privilege Escalation via Role Parameter Manipulation)
 
 **Vulnerability Type:** Broken Access Control — Privilege Escalation
 **Severity:** Critical (CVSS 3.1 Score: 9.1)<br>
