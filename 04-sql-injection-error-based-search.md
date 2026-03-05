@@ -1,10 +1,10 @@
 # SQL Injection — Error-Based SQLi in Search Functionality
 
-**Vulnerability Type:** SQL Injection (Error-Based)
-**Severity:** Critical (CVSS 3.1 Score: 9.8)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** SQL Injection (Error-Based)<br>
+**Severity:** Critical (CVSS 3.1 Score: 9.8)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
+**Date:** 2024<br>
 
 ---
 
