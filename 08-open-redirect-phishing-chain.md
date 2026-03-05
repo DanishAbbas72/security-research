@@ -1,10 +1,10 @@
-# Open Redirect — Unvalidated Redirect Parameter Enables Phishing Attack Chain
+# Open Redirect (Unvalidated Redirect Parameter Enables Phishing Attack Chain)
 
-**Vulnerability Type:** Open Redirect
-**Severity:** Medium (CVSS 3.1 Score: 6.1)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** Open Redirect <br>
+**Severity:** Medium (CVSS 3.1 Score: 6.1)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed<br>
+**Date:** 2024<br>
 
 ---
 
