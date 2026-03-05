@@ -1,10 +1,10 @@
-# Stored XSS — Persistent Script Injection via Profile Bio Field
+# Stored XSS (Persistent Script Injection via Profile Bio Field)
 
-**Vulnerability Type:** Stored Cross-Site Scripting (XSS)
-**Severity:** Medium–High (CVSS 3.1 Score: 6.8)
-**Platform:** Bug Bounty (Redacted)
-**Status:** Resolved / Disclosed
-**Date:** 2024
+**Vulnerability Type:** Stored Cross-Site Scripting (XSS)<br>
+**Severity:** Medium–High (CVSS 3.1 Score: 6.8)<br>
+**Platform:** Bug Bounty (Redacted)<br>
+**Status:** Resolved / Disclosed <br>
+**Date:** 2024<br>
 
 ---
 
