@@ -1,12 +1,15 @@
 # Security Research & Vulnerability Writeups
 
-**Author:** Danish Abbas
-**Focus:** Web Application Security | Bug Bounty | Penetration Testing
-**Profiles:** [YesWeHack](https://yeswehack.com) | [Bugcrowd](https://bugcrowd.com)
-**LinkedIn:** [linkedin.com/in/danish-abbas-132411216](https://linkedin.com/in/danish-abbas-132411216)
-**GitHub:** [github.com/DanishAbbas72](https://github.com/DanishAbbas72)
-**Email:** danish.abbas.infosec@gmail.com
-**Location:** Islamabad, Pakistan
+<br>
+
+| | |
+|---|---|
+| **Author** | Danish Abbas |
+| **Focus** | Web Application Security · Bug Bounty · Penetration Testing |
+| **LinkedIn** | [linkedin.com/in/danish-abbas-132411216](https://linkedin.com/in/danish-abbas-132411216) |
+| **GitHub** | [github.com/DanishAbbas72](https://github.com/DanishAbbas72) |
+| **Email** | [danish.abbas.infosec@gmail.com](mailto:danish.abbas.infosec@gmail.com) |
+| **Location** | Islamabad, Pakistan 🇵🇰 |
 
 ---
 
